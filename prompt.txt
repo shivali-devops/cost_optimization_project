@@ -1,0 +1,2 @@
+-"We need a cost optimization solution to manage billing in azure serverless architecture for following problem , 
+I have provided the constraints,solution requirement as well , please provide the best approach: ... your question"
